@@ -1,0 +1,5 @@
+{"login":{"code":"111111","mob":"17800000000","positionX":"0.0","positionY":"0.0"},
+"setting":{"storeId":"42"},
+"mob":{"mob":"13212345678"},
+"storeId":{"storeId":"42"},
+"loginout":{"username":"17800000000","password":"111111"}}
